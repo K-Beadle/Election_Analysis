@@ -12,8 +12,8 @@ I was assigned the task of auditing an election that was held for the U.S. House
 
 ## Resources
 [election_results.zip](https://github.com/K-Beadle/Election_Analysis/files/6216768/election_results.zip)
-Python Version 3.7.6 and Version 3.8.5 through Visual Studio Code terminal
-Visual Studio Code version 1.54.3
+-Python Version 3.7.6 and Version 3.8.5 through Visual Studio Code terminal
+-Visual Studio Code version 1.54.3
 
 ## Results
 
