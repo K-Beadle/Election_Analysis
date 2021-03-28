@@ -12,7 +12,7 @@ I was assigned the task of auditing an election that was held for the U.S. House
 
 ## Election-Audit Results
 
-![Challenge3_Analysis_Results](https://user-images.githubusercontent.com/78178900/112743211-f4b0fb00-8f5a-11eb-9bd7-5a7c84aa71ba.png)
+![Challenge3_Analysis_Results](https://user-images.githubusercontent.com/78178900/112743278-72750680-8f5b-11eb-8eb0-f8461e9da66e.png)
 
 The total amount of votes that were cast in the congressional election was 369,711.
 
